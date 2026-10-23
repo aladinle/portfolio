@@ -1,0 +1,9 @@
+{
+  "name": "trung-le-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
